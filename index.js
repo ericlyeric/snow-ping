@@ -2,6 +2,7 @@ require('dotenv').config();
 var axios = require('axios');
 var nodemailer = require('nodemailer');
 var { google } = require('googleapis');
+var { JWT } = require('google-auth-library');
 
 async function getSkiResortData() {
     const response = await axios.get(`${process.env.BASE_URL}/resortforecast/${process.env.RESORT_ID}?hourly_interval=${process.env.HOURLY_INTERVAL}&num_of_days=${process.env.NUM_OF_DAYS}&app_id=${process.env.APP_ID}&app_key=${process.env.APP_KEY}`)
@@ -92,13 +93,12 @@ function buildEmail(data) {
 
 async function getContacts() {
     const spreadsheetId = process.env.SPREADSHEET_ID;
-    const auth = new google.auth.GoogleAuth({
-        keyFile: "credentials.json",
-        scopes: "https://www.googleapis.com/auth/spreadsheets"
+    const auth = new JWT({
+        email: process.env.GOOGLE_CLIENT_EMAIL,
+        key: process.env.GOOGLE_PRIVATE_KEY.replace(/\\n/g, '\n'), 
+        scopes: process.env.GOOGLE_SCOPES
     });
-
-    const client = await auth.getClient();
-    const googleSheets = google.sheets({version: "v4", auth: client})    
+    const googleSheets = google.sheets({version: "v4", auth: auth})    
 
     const getData = await googleSheets.spreadsheets.values.get({
         auth,
@@ -119,7 +119,8 @@ function parseDate(date) {
 async function main() {
     let date = new Date().getDay();
     // send on Sundays and Thursdays
-    if (date === 0 || date === 4){
+    // if (date === 0 || date === 4){
+    if (date === 3) {
         console.log("Grabbing ski resort data ...");
         const data = await getSkiResortData();
         console.log("Got ski resort data");
