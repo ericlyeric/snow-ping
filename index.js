@@ -2,7 +2,6 @@ require('dotenv').config();
 var axios = require('axios');
 var nodemailer = require('nodemailer');
 var { google } = require('googleapis');
-var testData = require('./example-response.json');
 
 async function getSkiResortData() {
     const response = await axios.get(`${process.env.BASE_URL}/resortforecast/${process.env.RESORT_ID}?hourly_interval=${process.env.HOURLY_INTERVAL}&num_of_days=${process.env.NUM_OF_DAYS}&app_id=${process.env.APP_ID}&app_key=${process.env.APP_KEY}`)
@@ -118,17 +117,24 @@ function parseDate(date) {
 }
 
 async function main() {
-    console.log("Grabbing ski resort data ...");
-    const data = await getSkiResortData();
-    console.log("Got ski resort data");
-
-    console.log("Parsing ski resort data ...");
-    const parsedData = parseSkiResortData(data);
-    console.log("Finshed parsing data");
-
-    console.log("Composing email");
-    composeEmail(parsedData);
-    console.log("Done")   
+    let date = new Date().getDay();
+    // send on Sundays and Thursdays
+    if (date === 0 || date === 4){
+        console.log("Grabbing ski resort data ...");
+        const data = await getSkiResortData();
+        console.log("Got ski resort data");
+    
+        console.log("Parsing ski resort data ...");
+        const parsedData = parseSkiResortData(data);
+        console.log("Finshed parsing data");
+    
+        console.log("Composing email");
+        composeEmail(parsedData);
+        console.log("Done")   
+    }
+    else {
+        console.log("It's not Sunday or Thursday");
+    }
 }
 
 main();
