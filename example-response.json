@@ -1,0 +1,1742 @@
+{
+    "id": "604008",
+    "name": "Cypress Mountain",
+    "country": "Canada",
+    "continent": "N America",
+    "forecast": [
+       {
+          "date": "14/11/2021",
+          "time": "11:00",
+          "lowcloud_pct": "86",
+          "lowcloud_min_pct": "69",
+          "lowcloud_max_pct": "86",
+          "lowcloud_avg_pct": "79",
+          "midcloud_pct": "65",
+          "midcloud_min_pct": "65",
+          "midcloud_max_pct": "91",
+          "midcloud_avg_pct": "77",
+          "highcloud_pct": "0",
+          "highcloud_min_pct": "0",
+          "highcloud_max_pct": "0",
+          "highcloud_avg_pct": "0",
+          "totalcloud_pct": "100",
+          "totalcloud_min_pct": "95",
+          "totalcloud_max_pct": "100",
+          "totalcloud_avg_pct": "99",
+          "frzglvl_ft": "6908",
+          "frzglvl_min_ft": "6908",
+          "frzglvl_max_ft": "7772",
+          "frzglvl_avg_ft": "7419",
+          "frzglvl_m": "2106",
+          "frzglvl_min_m": "2106",
+          "frzglvl_max_m": "2369",
+          "frzglvl_avg_m": "2261",
+          "precip_mm": "32.5",
+          "precip_in": "1.3",
+          "rain_mm": "-13",
+          "rain_in": "-0.5",
+          "snow_mm": "455",
+          "snow_in": "17.9",
+          "hum_pct": "98",
+          "hum_min_pct": "96",
+          "hum_max_pct": "98",
+          "hum_avg_pct": "97",
+          "dewpoint_c": "7",
+          "dewpoint_min_c": "6",
+          "dewpoint_max_c": "9",
+          "dewpoint_avg_c": "8",
+          "dewpoint_f": "45",
+          "dewpoint_min_f": "43",
+          "dewpoint_max_f": "48",
+          "dewpoint_avg_f": "46",
+          "vis_km": "5",
+          "vis_min_km": "5",
+          "vis_max_km": "7",
+          "vis_avg_km": "6",
+          "vis_mi": "3",
+          "vis_min_mi": "3",
+          "vis_max_mi": "4",
+          "vis_avg_mi": "3",
+          "slp_mb": "1011",
+          "slp_min_mb": "1010",
+          "slp_max_mb": "1011",
+          "slp_avg_mb": "1010",
+          "slp_in": "29.93",
+          "slp_min_in": "29.9",
+          "slp_max_in": "29.93",
+          "slp_avg_in": "29.91",
+          "base": {
+             "wx_desc": "Heavy rain",
+             "wx_code": "65",
+             "wx_icon": "HeavyRain.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": "9",
+             "temp_min_c": "7",
+             "temp_max_c": "9",
+             "temp_avg_c": "8",
+             "temp_f": "45",
+             "temp_min_f": "44",
+             "temp_max_f": "48",
+             "temp_avg_f": "46",
+             "feelslike_c": "6",
+             "feelslike_min_c": "6",
+             "feelslike_max_c": "7",
+             "feelslike_avg_c": "7",
+             "feelslike_f": "43",
+             "feelslike_min_f": "42",
+             "feelslike_max_f": "45",
+             "feelslike_avg_f": "44",
+             "winddir_deg": "348.7",
+             "winddir_compass": "NNW",
+             "windspd_mph": "5",
+             "windspd_max_mph": "6",
+             "windspd_avg_mph": "5",
+             "windspd_kmh": "8",
+             "windspd_max_kmh": "10",
+             "windspd_avg_kmh": "8",
+             "windspd_kts": "4",
+             "windspd_max_kts": "5",
+             "windspd_avg_kts": "5",
+             "windspd_ms": "2.2",
+             "windspd_max_ms": "2.8",
+             "windspd_avg_ms": "2.3",
+             "windgst_mph": "10",
+             "windgst_max_mph": "10",
+             "windgst_avg_mph": "5",
+             "windgst_kmh": "16",
+             "windgst_max_kmh": "16",
+             "windgst_avg_kmh": "8",
+             "windgst_kts": "9",
+             "windgst_max_kts": "9",
+             "windgst_avg_kts": "5",
+             "windgst_ms": "4.5",
+             "windgst_max_ms": "4.5",
+             "windgst_avg_ms": "2.3"
+          },
+          "mid": {
+             "wx_desc": "Heavy rain",
+             "wx_code": "65",
+             "wx_icon": "HeavyRain.gif",
+             "freshsnow_cm": "23.16",
+             "freshsnow_in": "9.11",
+             "temp_c": {
+                "@nil": "true"
+             },
+             "temp_min_c": {
+                "@nil": "true"
+             },
+             "temp_max_c": {
+                "@nil": "true"
+             },
+             "temp_avg_c": {
+                "@nil": "true"
+             },
+             "temp_f": {
+                "@nil": "true"
+             },
+             "temp_min_f": {
+                "@nil": "true"
+             },
+             "temp_max_f": {
+                "@nil": "true"
+             },
+             "temp_avg_f": {
+                "@nil": "true"
+             },
+             "feelslike_c": {
+                "@nil": "true"
+             },
+             "feelslike_min_c": {
+                "@nil": "true"
+             },
+             "feelslike_max_c": {
+                "@nil": "true"
+             },
+             "feelslike_avg_c": {
+                "@nil": "true"
+             },
+             "feelslike_f": {
+                "@nil": "true"
+             },
+             "feelslike_min_f": {
+                "@nil": "true"
+             },
+             "feelslike_max_f": {
+                "@nil": "true"
+             },
+             "feelslike_avg_f": {
+                "@nil": "true"
+             },
+             "winddir_deg": "267.1",
+             "winddir_compass": "W",
+             "windspd_mph": "10",
+             "windspd_max_mph": "12",
+             "windspd_avg_mph": "9",
+             "windspd_kmh": "15",
+             "windspd_max_kmh": "20",
+             "windspd_avg_kmh": "14",
+             "windspd_kts": "8",
+             "windspd_max_kts": "11",
+             "windspd_avg_kts": "8",
+             "windspd_ms": "4.3",
+             "windspd_max_ms": "5.5",
+             "windspd_avg_ms": "4",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          },
+          "upper": {
+             "wx_desc": "Heavy snow",
+             "wx_code": "75",
+             "wx_icon": "HeavySnow.gif",
+             "freshsnow_cm": "45.5",
+             "freshsnow_in": "17.909999999999997",
+             "temp_c": "3",
+             "temp_min_c": "2",
+             "temp_max_c": "3",
+             "temp_avg_c": "3",
+             "temp_f": "37",
+             "temp_min_f": "36",
+             "temp_max_f": "37",
+             "temp_avg_f": "37",
+             "feelslike_c": "-2",
+             "feelslike_min_c": "-3",
+             "feelslike_max_c": "-2",
+             "feelslike_avg_c": "4",
+             "feelslike_f": "29",
+             "feelslike_min_f": "27",
+             "feelslike_max_f": "29",
+             "feelslike_avg_f": "40",
+             "winddir_deg": "267.1",
+             "winddir_compass": "W",
+             "windspd_mph": "13",
+             "windspd_max_mph": "20",
+             "windspd_avg_mph": "16",
+             "windspd_kmh": "21",
+             "windspd_max_kmh": "32",
+             "windspd_avg_kmh": "25",
+             "windspd_kts": "11",
+             "windspd_max_kts": "17",
+             "windspd_avg_kts": "14",
+             "windspd_ms": "5.9",
+             "windspd_max_ms": "8.9",
+             "windspd_avg_ms": "7",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          }
+       },
+       {
+          "date": "14/11/2021",
+          "time": "23:00",
+          "lowcloud_pct": "91",
+          "lowcloud_min_pct": "91",
+          "lowcloud_max_pct": "100",
+          "lowcloud_avg_pct": "96",
+          "midcloud_pct": "88",
+          "midcloud_min_pct": "70",
+          "midcloud_max_pct": "92",
+          "midcloud_avg_pct": "81",
+          "highcloud_pct": "0",
+          "highcloud_min_pct": "0",
+          "highcloud_max_pct": "0",
+          "highcloud_avg_pct": "0",
+          "totalcloud_pct": "100",
+          "totalcloud_min_pct": "100",
+          "totalcloud_max_pct": "100",
+          "totalcloud_avg_pct": "100",
+          "frzglvl_ft": "8076",
+          "frzglvl_min_ft": "7165",
+          "frzglvl_max_ft": "8481",
+          "frzglvl_avg_ft": "7801",
+          "frzglvl_m": "2462",
+          "frzglvl_min_m": "2184",
+          "frzglvl_max_m": "2585",
+          "frzglvl_avg_m": "2378",
+          "precip_mm": "22.7",
+          "precip_in": "0.9",
+          "rain_mm": "-2.1",
+          "rain_in": "-0.1",
+          "snow_mm": "247.8",
+          "snow_in": "9.8",
+          "hum_pct": "97",
+          "hum_min_pct": "97",
+          "hum_max_pct": "99",
+          "hum_avg_pct": "98",
+          "dewpoint_c": "5",
+          "dewpoint_min_c": "1",
+          "dewpoint_max_c": "5",
+          "dewpoint_avg_c": "3",
+          "dewpoint_f": "41",
+          "dewpoint_min_f": "34",
+          "dewpoint_max_f": "41",
+          "dewpoint_avg_f": "37",
+          "vis_km": "7",
+          "vis_min_km": "5",
+          "vis_max_km": "7",
+          "vis_avg_km": "6",
+          "vis_mi": "4",
+          "vis_min_mi": "3",
+          "vis_max_mi": "4",
+          "vis_avg_mi": "4",
+          "slp_mb": "1008",
+          "slp_min_mb": "1001",
+          "slp_max_mb": "1008",
+          "slp_avg_mb": "1005",
+          "slp_in": "29.87",
+          "slp_min_in": "29.65",
+          "slp_max_in": "29.87",
+          "slp_avg_in": "29.77",
+          "base": {
+             "wx_desc": "Moderate rain",
+             "wx_code": "63",
+             "wx_icon": "ModRain.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": "6",
+             "temp_min_c": "1",
+             "temp_max_c": "6",
+             "temp_avg_c": "3",
+             "temp_f": "42",
+             "temp_min_f": "34",
+             "temp_max_f": "42",
+             "temp_avg_f": "37",
+             "feelslike_c": "7",
+             "feelslike_min_c": "1",
+             "feelslike_max_c": "7",
+             "feelslike_avg_c": "3",
+             "feelslike_f": "44",
+             "feelslike_min_f": "34",
+             "feelslike_max_f": "44",
+             "feelslike_avg_f": "38",
+             "winddir_deg": "314.4",
+             "winddir_compass": "NW",
+             "windspd_mph": "1",
+             "windspd_max_mph": "3",
+             "windspd_avg_mph": "2",
+             "windspd_kmh": "2",
+             "windspd_max_kmh": "5",
+             "windspd_avg_kmh": "3",
+             "windspd_kts": "1",
+             "windspd_max_kts": "3",
+             "windspd_avg_kts": "2",
+             "windspd_ms": "0.5",
+             "windspd_max_ms": "1.4",
+             "windspd_avg_ms": "0.8",
+             "windgst_mph": "2",
+             "windgst_max_mph": "6",
+             "windgst_avg_mph": "2",
+             "windgst_kmh": "3",
+             "windgst_max_kmh": "10",
+             "windgst_avg_kmh": "3",
+             "windgst_kts": "2",
+             "windgst_max_kts": "6",
+             "windgst_avg_kts": "2",
+             "windgst_ms": "0.8",
+             "windgst_max_ms": "2.9",
+             "windgst_avg_ms": "0.8"
+          },
+          "mid": {
+             "wx_desc": "Moderate or heavy sleet",
+             "wx_code": "69",
+             "wx_icon": "HeavySleet.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": {
+                "@nil": "true"
+             },
+             "temp_min_c": {
+                "@nil": "true"
+             },
+             "temp_max_c": {
+                "@nil": "true"
+             },
+             "temp_avg_c": {
+                "@nil": "true"
+             },
+             "temp_f": {
+                "@nil": "true"
+             },
+             "temp_min_f": {
+                "@nil": "true"
+             },
+             "temp_max_f": {
+                "@nil": "true"
+             },
+             "temp_avg_f": {
+                "@nil": "true"
+             },
+             "feelslike_c": {
+                "@nil": "true"
+             },
+             "feelslike_min_c": {
+                "@nil": "true"
+             },
+             "feelslike_max_c": {
+                "@nil": "true"
+             },
+             "feelslike_avg_c": {
+                "@nil": "true"
+             },
+             "feelslike_f": {
+                "@nil": "true"
+             },
+             "feelslike_min_f": {
+                "@nil": "true"
+             },
+             "feelslike_max_f": {
+                "@nil": "true"
+             },
+             "feelslike_avg_f": {
+                "@nil": "true"
+             },
+             "winddir_deg": "214.1",
+             "winddir_compass": "SW",
+             "windspd_mph": "10",
+             "windspd_max_mph": "23",
+             "windspd_avg_mph": "16",
+             "windspd_kmh": "16",
+             "windspd_max_kmh": "37",
+             "windspd_avg_kmh": "26",
+             "windspd_kts": "9",
+             "windspd_max_kts": "20",
+             "windspd_avg_kts": "14",
+             "windspd_ms": "4.5",
+             "windspd_max_ms": "10.4",
+             "windspd_avg_ms": "7.3",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          },
+          "upper": {
+             "wx_desc": "Heavy snow",
+             "wx_code": "75",
+             "wx_icon": "HeavySnow.gif",
+             "freshsnow_cm": "24.78",
+             "freshsnow_in": "9.75",
+             "temp_c": "4",
+             "temp_min_c": "3",
+             "temp_max_c": "4",
+             "temp_avg_c": "4",
+             "temp_f": "38",
+             "temp_min_f": "38",
+             "temp_max_f": "39",
+             "temp_avg_f": "39",
+             "feelslike_c": "-2",
+             "feelslike_min_c": "-3",
+             "feelslike_max_c": "-2",
+             "feelslike_avg_c": "-3",
+             "feelslike_f": "28",
+             "feelslike_min_f": "27",
+             "feelslike_max_f": "28",
+             "feelslike_avg_f": "26",
+             "winddir_deg": "214.1",
+             "winddir_compass": "SW",
+             "windspd_mph": "18",
+             "windspd_max_mph": "29",
+             "windspd_avg_mph": "24",
+             "windspd_kmh": "29",
+             "windspd_max_kmh": "46",
+             "windspd_avg_kmh": "38",
+             "windspd_kts": "16",
+             "windspd_max_kts": "25",
+             "windspd_avg_kts": "21",
+             "windspd_ms": "8.1",
+             "windspd_max_ms": "12.9",
+             "windspd_avg_ms": "10.6",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          }
+       },
+       {
+          "date": "15/11/2021",
+          "time": "11:00",
+          "lowcloud_pct": "86",
+          "lowcloud_min_pct": "0",
+          "lowcloud_max_pct": "92",
+          "lowcloud_avg_pct": "48",
+          "midcloud_pct": "63",
+          "midcloud_min_pct": "4",
+          "midcloud_max_pct": "63",
+          "midcloud_avg_pct": "27",
+          "highcloud_pct": "0",
+          "highcloud_min_pct": "0",
+          "highcloud_max_pct": "0",
+          "highcloud_avg_pct": "0",
+          "totalcloud_pct": "100",
+          "totalcloud_min_pct": "14",
+          "totalcloud_max_pct": "100",
+          "totalcloud_avg_pct": "58",
+          "frzglvl_ft": "6766",
+          "frzglvl_min_ft": "3006",
+          "frzglvl_max_ft": "6766",
+          "frzglvl_avg_ft": "4627",
+          "frzglvl_m": "2062",
+          "frzglvl_min_m": "916",
+          "frzglvl_max_m": "2062",
+          "frzglvl_avg_m": "1410",
+          "precip_mm": "8.9",
+          "precip_in": "0.4",
+          "rain_mm": "-3.4",
+          "rain_in": "-0.1",
+          "snow_mm": "123.2",
+          "snow_in": "4.9",
+          "hum_pct": "98",
+          "hum_min_pct": "78",
+          "hum_max_pct": "98",
+          "hum_avg_pct": "90",
+          "dewpoint_c": "6",
+          "dewpoint_min_c": "2",
+          "dewpoint_max_c": "7",
+          "dewpoint_avg_c": "5",
+          "dewpoint_f": "42",
+          "dewpoint_min_f": "35",
+          "dewpoint_max_f": "45",
+          "dewpoint_avg_f": "41",
+          "vis_km": "6",
+          "vis_min_km": "6",
+          "vis_max_km": "10",
+          "vis_avg_km": "9",
+          "vis_mi": "4",
+          "vis_min_mi": "4",
+          "vis_max_mi": "6",
+          "vis_avg_mi": "5",
+          "slp_mb": "999",
+          "slp_min_mb": "999",
+          "slp_max_mb": "1006",
+          "slp_avg_mb": "1001",
+          "slp_in": "29.59",
+          "slp_min_in": "29.58",
+          "slp_max_in": "29.78",
+          "slp_avg_in": "29.65",
+          "base": {
+             "wx_desc": "Moderate or heavy sleet",
+             "wx_code": "69",
+             "wx_icon": "HeavySleet.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": "8",
+             "temp_min_c": "5",
+             "temp_max_c": "8",
+             "temp_avg_c": "7",
+             "temp_f": "42",
+             "temp_min_f": "42",
+             "temp_max_f": "46",
+             "temp_avg_f": "44",
+             "feelslike_c": "3",
+             "feelslike_min_c": "1",
+             "feelslike_max_c": "5",
+             "feelslike_avg_c": "3",
+             "feelslike_f": "38",
+             "feelslike_min_f": "34",
+             "feelslike_max_f": "41",
+             "feelslike_avg_f": "38",
+             "winddir_deg": "254.2",
+             "winddir_compass": "WSW",
+             "windspd_mph": "8",
+             "windspd_max_mph": "15",
+             "windspd_avg_mph": "11",
+             "windspd_kmh": "12",
+             "windspd_max_kmh": "24",
+             "windspd_avg_kmh": "18",
+             "windspd_kts": "7",
+             "windspd_max_kts": "13",
+             "windspd_avg_kts": "10",
+             "windspd_ms": "3.4",
+             "windspd_max_ms": "6.6",
+             "windspd_avg_ms": "4.9",
+             "windgst_mph": "11",
+             "windgst_max_mph": "17",
+             "windgst_avg_mph": "11",
+             "windgst_kmh": "18",
+             "windgst_max_kmh": "27",
+             "windgst_avg_kmh": "18",
+             "windgst_kts": "10",
+             "windgst_max_kts": "15",
+             "windgst_avg_kts": "10",
+             "windgst_ms": "5",
+             "windgst_max_ms": "7.6",
+             "windgst_avg_ms": "4.9"
+          },
+          "mid": {
+             "wx_desc": "Heavy snow",
+             "wx_code": "75",
+             "wx_icon": "HeavySnow.gif",
+             "freshsnow_cm": "10.559999999999999",
+             "freshsnow_in": "4.15",
+             "temp_c": {
+                "@nil": "true"
+             },
+             "temp_min_c": {
+                "@nil": "true"
+             },
+             "temp_max_c": {
+                "@nil": "true"
+             },
+             "temp_avg_c": {
+                "@nil": "true"
+             },
+             "temp_f": {
+                "@nil": "true"
+             },
+             "temp_min_f": {
+                "@nil": "true"
+             },
+             "temp_max_f": {
+                "@nil": "true"
+             },
+             "temp_avg_f": {
+                "@nil": "true"
+             },
+             "feelslike_c": {
+                "@nil": "true"
+             },
+             "feelslike_min_c": {
+                "@nil": "true"
+             },
+             "feelslike_max_c": {
+                "@nil": "true"
+             },
+             "feelslike_avg_c": {
+                "@nil": "true"
+             },
+             "feelslike_f": {
+                "@nil": "true"
+             },
+             "feelslike_min_f": {
+                "@nil": "true"
+             },
+             "feelslike_max_f": {
+                "@nil": "true"
+             },
+             "feelslike_avg_f": {
+                "@nil": "true"
+             },
+             "winddir_deg": "217.2",
+             "winddir_compass": "SW",
+             "windspd_mph": "26",
+             "windspd_max_mph": "29",
+             "windspd_avg_mph": "23",
+             "windspd_kmh": "42",
+             "windspd_max_kmh": "47",
+             "windspd_avg_kmh": "37",
+             "windspd_kts": "23",
+             "windspd_max_kts": "25",
+             "windspd_avg_kts": "20",
+             "windspd_ms": "11.6",
+             "windspd_max_ms": "13.1",
+             "windspd_avg_ms": "10.4",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          },
+          "upper": {
+             "wx_desc": "Heavy snow",
+             "wx_code": "75",
+             "wx_icon": "HeavySnow.gif",
+             "freshsnow_cm": "12.32",
+             "freshsnow_in": "4.85",
+             "temp_c": "3",
+             "temp_min_c": "-4",
+             "temp_max_c": "3",
+             "temp_avg_c": "-1",
+             "temp_f": "37",
+             "temp_min_f": "25",
+             "temp_max_f": "37",
+             "temp_avg_f": "30",
+             "feelslike_c": "-5",
+             "feelslike_min_c": "-14",
+             "feelslike_max_c": "-5",
+             "feelslike_avg_c": "1",
+             "feelslike_f": "23",
+             "feelslike_min_f": "7",
+             "feelslike_max_f": "23",
+             "feelslike_avg_f": "34",
+             "winddir_deg": "217.2",
+             "winddir_compass": "SW",
+             "windspd_mph": "36",
+             "windspd_max_mph": "36",
+             "windspd_avg_mph": "28",
+             "windspd_kmh": "57",
+             "windspd_max_kmh": "57",
+             "windspd_avg_kmh": "45",
+             "windspd_kts": "31",
+             "windspd_max_kts": "31",
+             "windspd_avg_kts": "24",
+             "windspd_ms": "15.9",
+             "windspd_max_ms": "15.9",
+             "windspd_avg_ms": "12.6",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          }
+       },
+       {
+          "date": "15/11/2021",
+          "time": "23:00",
+          "lowcloud_pct": "0",
+          "lowcloud_min_pct": "0",
+          "lowcloud_max_pct": "1",
+          "lowcloud_avg_pct": "0",
+          "midcloud_pct": "0",
+          "midcloud_min_pct": "0",
+          "midcloud_max_pct": "43",
+          "midcloud_avg_pct": "14",
+          "highcloud_pct": "0",
+          "highcloud_min_pct": "0",
+          "highcloud_max_pct": "0",
+          "highcloud_avg_pct": "0",
+          "totalcloud_pct": "0",
+          "totalcloud_min_pct": "0",
+          "totalcloud_max_pct": "43",
+          "totalcloud_avg_pct": "15",
+          "frzglvl_ft": "2138",
+          "frzglvl_min_ft": "1592",
+          "frzglvl_max_ft": "2138",
+          "frzglvl_avg_ft": "1805",
+          "frzglvl_m": "652",
+          "frzglvl_min_m": "485",
+          "frzglvl_max_m": "652",
+          "frzglvl_avg_m": "550",
+          "precip_mm": "0",
+          "precip_in": "0",
+          "rain_mm": "0",
+          "rain_in": "0",
+          "snow_mm": "0",
+          "snow_in": "0",
+          "hum_pct": "71",
+          "hum_min_pct": "71",
+          "hum_max_pct": "78",
+          "hum_avg_pct": "75",
+          "dewpoint_c": "-1",
+          "dewpoint_min_c": "-5",
+          "dewpoint_max_c": "-1",
+          "dewpoint_avg_c": "-3",
+          "dewpoint_f": "30",
+          "dewpoint_min_f": "23",
+          "dewpoint_max_f": "30",
+          "dewpoint_avg_f": "26",
+          "vis_km": "10",
+          "vis_min_km": "10",
+          "vis_max_km": "10",
+          "vis_avg_km": "10",
+          "vis_mi": "6",
+          "vis_min_mi": "6",
+          "vis_max_mi": "6",
+          "vis_avg_mi": "6",
+          "slp_mb": "1011",
+          "slp_min_mb": "1011",
+          "slp_max_mb": "1022",
+          "slp_avg_mb": "1017",
+          "slp_in": "29.95",
+          "slp_min_in": "29.95",
+          "slp_max_in": "30.26",
+          "slp_avg_in": "30.12",
+          "base": {
+             "wx_desc": "Clear skies",
+             "wx_code": "0",
+             "wx_icon": "Clear.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": "4",
+             "temp_min_c": "-1",
+             "temp_max_c": "4",
+             "temp_avg_c": "0",
+             "temp_f": "39",
+             "temp_min_f": "30",
+             "temp_max_f": "39",
+             "temp_avg_f": "33",
+             "feelslike_c": "-1",
+             "feelslike_min_c": "-6",
+             "feelslike_max_c": "-1",
+             "feelslike_avg_c": "-3",
+             "feelslike_f": "31",
+             "feelslike_min_f": "21",
+             "feelslike_max_f": "31",
+             "feelslike_avg_f": "26",
+             "winddir_deg": "274",
+             "winddir_compass": "W",
+             "windspd_mph": "13",
+             "windspd_max_mph": "13",
+             "windspd_avg_mph": "8",
+             "windspd_kmh": "20",
+             "windspd_max_kmh": "20",
+             "windspd_avg_kmh": "13",
+             "windspd_kts": "11",
+             "windspd_max_kts": "11",
+             "windspd_avg_kts": "7",
+             "windspd_ms": "5.6",
+             "windspd_max_ms": "5.6",
+             "windspd_avg_ms": "3.6",
+             "windgst_mph": "16",
+             "windgst_max_mph": "20",
+             "windgst_avg_mph": "8",
+             "windgst_kmh": "25",
+             "windgst_max_kmh": "33",
+             "windgst_avg_kmh": "13",
+             "windgst_kts": "14",
+             "windgst_max_kts": "18",
+             "windgst_avg_kts": "7",
+             "windgst_ms": "7",
+             "windgst_max_ms": "9.2",
+             "windgst_avg_ms": "3.6"
+          },
+          "mid": {
+             "wx_desc": "Clear skies",
+             "wx_code": "0",
+             "wx_icon": "Clear.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": {
+                "@nil": "true"
+             },
+             "temp_min_c": {
+                "@nil": "true"
+             },
+             "temp_max_c": {
+                "@nil": "true"
+             },
+             "temp_avg_c": {
+                "@nil": "true"
+             },
+             "temp_f": {
+                "@nil": "true"
+             },
+             "temp_min_f": {
+                "@nil": "true"
+             },
+             "temp_max_f": {
+                "@nil": "true"
+             },
+             "temp_avg_f": {
+                "@nil": "true"
+             },
+             "feelslike_c": {
+                "@nil": "true"
+             },
+             "feelslike_min_c": {
+                "@nil": "true"
+             },
+             "feelslike_max_c": {
+                "@nil": "true"
+             },
+             "feelslike_avg_c": {
+                "@nil": "true"
+             },
+             "feelslike_f": {
+                "@nil": "true"
+             },
+             "feelslike_min_f": {
+                "@nil": "true"
+             },
+             "feelslike_max_f": {
+                "@nil": "true"
+             },
+             "feelslike_avg_f": {
+                "@nil": "true"
+             },
+             "winddir_deg": "287.6",
+             "winddir_compass": "WNW",
+             "windspd_mph": "31",
+             "windspd_max_mph": "31",
+             "windspd_avg_mph": "21",
+             "windspd_kmh": "50",
+             "windspd_max_kmh": "50",
+             "windspd_avg_kmh": "34",
+             "windspd_kts": "27",
+             "windspd_max_kts": "27",
+             "windspd_avg_kts": "18",
+             "windspd_ms": "13.9",
+             "windspd_max_ms": "13.9",
+             "windspd_avg_ms": "9.4",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          },
+          "upper": {
+             "wx_desc": "Clear skies",
+             "wx_code": "0",
+             "wx_icon": "Clear.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": "-6",
+             "temp_min_c": "-6",
+             "temp_max_c": "-6",
+             "temp_avg_c": "-6",
+             "temp_f": "22",
+             "temp_min_f": "21",
+             "temp_max_f": "22",
+             "temp_avg_f": "22",
+             "feelslike_c": "-17",
+             "feelslike_min_c": "-17",
+             "feelslike_max_c": "-14",
+             "feelslike_avg_c": "-7",
+             "feelslike_f": "2",
+             "feelslike_min_f": "2",
+             "feelslike_max_f": "7",
+             "feelslike_avg_f": "20",
+             "winddir_deg": "287.6",
+             "winddir_compass": "WNW",
+             "windspd_mph": "38",
+             "windspd_max_mph": "38",
+             "windspd_avg_mph": "26",
+             "windspd_kmh": "61",
+             "windspd_max_kmh": "61",
+             "windspd_avg_kmh": "42",
+             "windspd_kts": "33",
+             "windspd_max_kts": "33",
+             "windspd_avg_kts": "23",
+             "windspd_ms": "17",
+             "windspd_max_ms": "17",
+             "windspd_avg_ms": "11.6",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          }
+       },
+       {
+          "date": "16/11/2021",
+          "time": "11:00",
+          "lowcloud_pct": "2",
+          "lowcloud_min_pct": "0",
+          "lowcloud_max_pct": "2",
+          "lowcloud_avg_pct": "1",
+          "midcloud_pct": "0",
+          "midcloud_min_pct": "0",
+          "midcloud_max_pct": "0",
+          "midcloud_avg_pct": "0",
+          "highcloud_pct": "0",
+          "highcloud_min_pct": "0",
+          "highcloud_max_pct": "0",
+          "highcloud_avg_pct": "0",
+          "totalcloud_pct": "2",
+          "totalcloud_min_pct": "0",
+          "totalcloud_max_pct": "2",
+          "totalcloud_avg_pct": "1",
+          "frzglvl_ft": "2261",
+          "frzglvl_min_ft": "2156",
+          "frzglvl_max_ft": "2607",
+          "frzglvl_avg_ft": "2376",
+          "frzglvl_m": "689",
+          "frzglvl_min_m": "657",
+          "frzglvl_max_m": "795",
+          "frzglvl_avg_m": "724",
+          "precip_mm": "0",
+          "precip_in": "0",
+          "rain_mm": "0",
+          "rain_in": "0",
+          "snow_mm": "0",
+          "snow_in": "0",
+          "hum_pct": "72",
+          "hum_min_pct": "65",
+          "hum_max_pct": "78",
+          "hum_avg_pct": "72",
+          "dewpoint_c": "-3",
+          "dewpoint_min_c": "-7",
+          "dewpoint_max_c": "-3",
+          "dewpoint_avg_c": "-5",
+          "dewpoint_f": "26",
+          "dewpoint_min_f": "20",
+          "dewpoint_max_f": "26",
+          "dewpoint_avg_f": "23",
+          "vis_km": "10",
+          "vis_min_km": "10",
+          "vis_max_km": "10",
+          "vis_avg_km": "10",
+          "vis_mi": "6",
+          "vis_min_mi": "6",
+          "vis_max_mi": "6",
+          "vis_avg_mi": "6",
+          "slp_mb": "1024",
+          "slp_min_mb": "1024",
+          "slp_max_mb": "1029",
+          "slp_avg_mb": "1026",
+          "slp_in": "30.34",
+          "slp_min_in": "30.34",
+          "slp_max_in": "30.47",
+          "slp_avg_in": "30.4",
+          "base": {
+             "wx_desc": "Sunny skies",
+             "wx_code": "0",
+             "wx_icon": "Sunny.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": "1",
+             "temp_min_c": "-1",
+             "temp_max_c": "1",
+             "temp_avg_c": "-1",
+             "temp_f": "34",
+             "temp_min_f": "30",
+             "temp_max_f": "34",
+             "temp_avg_f": "31",
+             "feelslike_c": "-2",
+             "feelslike_min_c": "-4",
+             "feelslike_max_c": "-2",
+             "feelslike_avg_c": "-4",
+             "feelslike_f": "29",
+             "feelslike_min_f": "24",
+             "feelslike_max_f": "29",
+             "feelslike_avg_f": "26",
+             "winddir_deg": "323.9",
+             "winddir_compass": "NW",
+             "windspd_mph": "6",
+             "windspd_max_mph": "6",
+             "windspd_avg_mph": "5",
+             "windspd_kmh": "9",
+             "windspd_max_kmh": "10",
+             "windspd_avg_kmh": "9",
+             "windspd_kts": "5",
+             "windspd_max_kts": "5",
+             "windspd_avg_kts": "5",
+             "windspd_ms": "2.6",
+             "windspd_max_ms": "2.7",
+             "windspd_avg_ms": "2.4",
+             "windgst_mph": "10",
+             "windgst_max_mph": "13",
+             "windgst_avg_mph": "5",
+             "windgst_kmh": "16",
+             "windgst_max_kmh": "21",
+             "windgst_avg_kmh": "9",
+             "windgst_kts": "9",
+             "windgst_max_kts": "11",
+             "windgst_avg_kts": "5",
+             "windgst_ms": "4.6",
+             "windgst_max_ms": "5.7",
+             "windgst_avg_ms": "2.4"
+          },
+          "mid": {
+             "wx_desc": "Sunny skies",
+             "wx_code": "0",
+             "wx_icon": "Sunny.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": {
+                "@nil": "true"
+             },
+             "temp_min_c": {
+                "@nil": "true"
+             },
+             "temp_max_c": {
+                "@nil": "true"
+             },
+             "temp_avg_c": {
+                "@nil": "true"
+             },
+             "temp_f": {
+                "@nil": "true"
+             },
+             "temp_min_f": {
+                "@nil": "true"
+             },
+             "temp_max_f": {
+                "@nil": "true"
+             },
+             "temp_avg_f": {
+                "@nil": "true"
+             },
+             "feelslike_c": {
+                "@nil": "true"
+             },
+             "feelslike_min_c": {
+                "@nil": "true"
+             },
+             "feelslike_max_c": {
+                "@nil": "true"
+             },
+             "feelslike_avg_c": {
+                "@nil": "true"
+             },
+             "feelslike_f": {
+                "@nil": "true"
+             },
+             "feelslike_min_f": {
+                "@nil": "true"
+             },
+             "feelslike_max_f": {
+                "@nil": "true"
+             },
+             "feelslike_avg_f": {
+                "@nil": "true"
+             },
+             "winddir_deg": "299.4",
+             "winddir_compass": "WNW",
+             "windspd_mph": "14",
+             "windspd_max_mph": "14",
+             "windspd_avg_mph": "8",
+             "windspd_kmh": "23",
+             "windspd_max_kmh": "23",
+             "windspd_avg_kmh": "12",
+             "windspd_kts": "12",
+             "windspd_max_kts": "12",
+             "windspd_avg_kts": "7",
+             "windspd_ms": "6.3",
+             "windspd_max_ms": "6.3",
+             "windspd_avg_ms": "3.4",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          },
+          "upper": {
+             "wx_desc": "Sunny skies",
+             "wx_code": "0",
+             "wx_icon": "Sunny.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": "-6",
+             "temp_min_c": "-6",
+             "temp_max_c": "-6",
+             "temp_avg_c": "-6",
+             "temp_f": "21",
+             "temp_min_f": "21",
+             "temp_max_f": "22",
+             "temp_avg_f": "21",
+             "feelslike_c": "-14",
+             "feelslike_min_c": "-14",
+             "feelslike_max_c": "-7",
+             "feelslike_avg_c": "-4",
+             "feelslike_f": "6",
+             "feelslike_min_f": "6",
+             "feelslike_max_f": "19",
+             "feelslike_avg_f": "25",
+             "winddir_deg": "291.2",
+             "winddir_compass": "WNW",
+             "windspd_mph": "17",
+             "windspd_max_mph": "17",
+             "windspd_avg_mph": "9",
+             "windspd_kmh": "27",
+             "windspd_max_kmh": "27",
+             "windspd_avg_kmh": "14",
+             "windspd_kts": "15",
+             "windspd_max_kts": "15",
+             "windspd_avg_kts": "7",
+             "windspd_ms": "7.6",
+             "windspd_max_ms": "7.6",
+             "windspd_avg_ms": "3.8",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          }
+       },
+       {
+          "date": "16/11/2021",
+          "time": "23:00",
+          "lowcloud_pct": "0",
+          "lowcloud_min_pct": "0",
+          "lowcloud_max_pct": "2",
+          "lowcloud_avg_pct": "1",
+          "midcloud_pct": "0",
+          "midcloud_min_pct": "0",
+          "midcloud_max_pct": "1",
+          "midcloud_avg_pct": "0",
+          "highcloud_pct": "0",
+          "highcloud_min_pct": "0",
+          "highcloud_max_pct": "0",
+          "highcloud_avg_pct": "0",
+          "totalcloud_pct": "0",
+          "totalcloud_min_pct": "0",
+          "totalcloud_max_pct": "3",
+          "totalcloud_avg_pct": "1",
+          "frzglvl_ft": "1469",
+          "frzglvl_min_ft": "1208",
+          "frzglvl_max_ft": "1469",
+          "frzglvl_avg_ft": "1300",
+          "frzglvl_m": "448",
+          "frzglvl_min_m": "368",
+          "frzglvl_max_m": "448",
+          "frzglvl_avg_m": "396",
+          "precip_mm": "0",
+          "precip_in": "0",
+          "rain_mm": "0",
+          "rain_in": "0",
+          "snow_mm": "0",
+          "snow_in": "0",
+          "hum_pct": "80",
+          "hum_min_pct": "74",
+          "hum_max_pct": "80",
+          "hum_avg_pct": "77",
+          "dewpoint_c": "-2",
+          "dewpoint_min_c": "-5",
+          "dewpoint_max_c": "-2",
+          "dewpoint_avg_c": "-4",
+          "dewpoint_f": "29",
+          "dewpoint_min_f": "23",
+          "dewpoint_max_f": "29",
+          "dewpoint_avg_f": "25",
+          "vis_km": "10",
+          "vis_min_km": "10",
+          "vis_max_km": "10",
+          "vis_avg_km": "10",
+          "vis_mi": "6",
+          "vis_min_mi": "6",
+          "vis_max_mi": "6",
+          "vis_avg_mi": "6",
+          "slp_mb": "1031",
+          "slp_min_mb": "1030",
+          "slp_max_mb": "1032",
+          "slp_avg_mb": "1031",
+          "slp_in": "30.53",
+          "slp_min_in": "30.5",
+          "slp_max_in": "30.55",
+          "slp_avg_in": "30.53",
+          "base": {
+             "wx_desc": "Clear skies",
+             "wx_code": "0",
+             "wx_icon": "Clear.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": "1",
+             "temp_min_c": "-1",
+             "temp_max_c": "1",
+             "temp_avg_c": "-0",
+             "temp_f": "34",
+             "temp_min_f": "30",
+             "temp_max_f": "34",
+             "temp_avg_f": "32",
+             "feelslike_c": "-1",
+             "feelslike_min_c": "-4",
+             "feelslike_max_c": "-1",
+             "feelslike_avg_c": "-3",
+             "feelslike_f": "30",
+             "feelslike_min_f": "25",
+             "feelslike_max_f": "30",
+             "feelslike_avg_f": "26",
+             "winddir_deg": "45.3",
+             "winddir_compass": "NE",
+             "windspd_mph": "5",
+             "windspd_max_mph": "6",
+             "windspd_avg_mph": "5",
+             "windspd_kmh": "8",
+             "windspd_max_kmh": "10",
+             "windspd_avg_kmh": "9",
+             "windspd_kts": "4",
+             "windspd_max_kts": "5",
+             "windspd_avg_kts": "5",
+             "windspd_ms": "2.3",
+             "windspd_max_ms": "2.8",
+             "windspd_avg_ms": "2.4",
+             "windgst_mph": "8",
+             "windgst_max_mph": "12",
+             "windgst_avg_mph": "5",
+             "windgst_kmh": "13",
+             "windgst_max_kmh": "19",
+             "windgst_avg_kmh": "9",
+             "windgst_kts": "7",
+             "windgst_max_kts": "10",
+             "windgst_avg_kts": "5",
+             "windgst_ms": "3.7",
+             "windgst_max_ms": "5.3",
+             "windgst_avg_ms": "2.4"
+          },
+          "mid": {
+             "wx_desc": "Clear skies",
+             "wx_code": "0",
+             "wx_icon": "Clear.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": {
+                "@nil": "true"
+             },
+             "temp_min_c": {
+                "@nil": "true"
+             },
+             "temp_max_c": {
+                "@nil": "true"
+             },
+             "temp_avg_c": {
+                "@nil": "true"
+             },
+             "temp_f": {
+                "@nil": "true"
+             },
+             "temp_min_f": {
+                "@nil": "true"
+             },
+             "temp_max_f": {
+                "@nil": "true"
+             },
+             "temp_avg_f": {
+                "@nil": "true"
+             },
+             "feelslike_c": {
+                "@nil": "true"
+             },
+             "feelslike_min_c": {
+                "@nil": "true"
+             },
+             "feelslike_max_c": {
+                "@nil": "true"
+             },
+             "feelslike_avg_c": {
+                "@nil": "true"
+             },
+             "feelslike_f": {
+                "@nil": "true"
+             },
+             "feelslike_min_f": {
+                "@nil": "true"
+             },
+             "feelslike_max_f": {
+                "@nil": "true"
+             },
+             "feelslike_avg_f": {
+                "@nil": "true"
+             },
+             "winddir_deg": "117",
+             "winddir_compass": "ESE",
+             "windspd_mph": "2",
+             "windspd_max_mph": "2",
+             "windspd_avg_mph": "1",
+             "windspd_kmh": "3",
+             "windspd_max_kmh": "3",
+             "windspd_avg_kmh": "2",
+             "windspd_kts": "2",
+             "windspd_max_kts": "2",
+             "windspd_avg_kts": "1",
+             "windspd_ms": "0.8",
+             "windspd_max_ms": "0.8",
+             "windspd_avg_ms": "0.6",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          },
+          "upper": {
+             "wx_desc": "Clear skies",
+             "wx_code": "0",
+             "wx_icon": "Clear.gif",
+             "freshsnow_cm": "0",
+             "freshsnow_in": "0",
+             "temp_c": "-6",
+             "temp_min_c": "-6",
+             "temp_max_c": "-6",
+             "temp_avg_c": "-6",
+             "temp_f": "21",
+             "temp_min_f": "21",
+             "temp_max_f": "21",
+             "temp_avg_f": "21",
+             "feelslike_c": "-5",
+             "feelslike_min_c": "-6",
+             "feelslike_max_c": "-5",
+             "feelslike_avg_c": "1",
+             "feelslike_f": "23",
+             "feelslike_min_f": "21",
+             "feelslike_max_f": "24",
+             "feelslike_avg_f": "33",
+             "winddir_deg": "192.8",
+             "winddir_compass": "SSW",
+             "windspd_mph": "1",
+             "windspd_max_mph": "1",
+             "windspd_avg_mph": "1",
+             "windspd_kmh": "1",
+             "windspd_max_kmh": "2",
+             "windspd_avg_kmh": "2",
+             "windspd_kts": "1",
+             "windspd_max_kts": "1",
+             "windspd_avg_kts": "1",
+             "windspd_ms": "0.4",
+             "windspd_max_ms": "0.6",
+             "windspd_avg_ms": "0.4",
+             "windgst_mph": {
+                "@nil": "true"
+             },
+             "windgst_max_mph": {
+                "@nil": "true"
+             },
+             "windgst_avg_mph": {
+                "@nil": "true"
+             },
+             "windgst_kmh": {
+                "@nil": "true"
+             },
+             "windgst_max_kmh": {
+                "@nil": "true"
+             },
+             "windgst_avg_kmh": {
+                "@nil": "true"
+             },
+             "windgst_kts": {
+                "@nil": "true"
+             },
+             "windgst_max_kts": {
+                "@nil": "true"
+             },
+             "windgst_avg_kts": {
+                "@nil": "true"
+             },
+             "windgst_ms": {
+                "@nil": "true"
+             },
+             "windgst_max_ms": {
+                "@nil": "true"
+             },
+             "windgst_avg_ms": {
+                "@nil": "true"
+             }
+          }
+       }
+    ]
+  }
