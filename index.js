@@ -119,8 +119,7 @@ function parseDate(date) {
 async function main() {
     let date = new Date().getDay();
     // send on Sundays and Thursdays
-    // if (date === 0 || date === 4){
-    if (date === 3) {
+    if (date === 0 || date === 4){
         console.log("Grabbing ski resort data ...");
         const data = await getSkiResortData();
         console.log("Got ski resort data");
