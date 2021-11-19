@@ -1,6 +1,7 @@
 require('dotenv').config();
 var axios = require('axios');
 var nodemailer = require('nodemailer');
+var smtpTransport = require('nodemailer-smtp-transport');
 var { google } = require('googleapis');
 var { JWT } = require('google-auth-library');
 
@@ -56,7 +57,7 @@ function emailConfig({subject, recipients, body}) {
             pass: process.env.PASSWORD
         }
     }
-    const transporter = nodemailer.createTransport(smtpConfig);
+    const transporter = nodemailer.createTransport(smtpTransport(smtpConfig));
     
     const mailOptions = {
         from: process.env.EMAIL_SERVICE,
