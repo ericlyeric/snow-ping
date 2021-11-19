@@ -46,13 +46,15 @@ function parseSkiResortData(data) {
 
 
 function emailConfig({subject, recipients, body}) {
-    const transporter = nodemailer.createTransport({
-        service: process.env.EMAIL_SERVICE,
+    const smtpConfig = {
+        host: process.env.EMAIL_SERVICE,
+        port: process.env.SMPT_PORT,
         auth: {
             user: process.env.EMAIL,
-            pass: process.env.PASSWORD 
+            pass: process.env.PASSWORD
         }
-    });
+    }
+    const transporter = nodemailer.createTransport(smtpConfig);
     
     const mailOptions = {
         from: process.env.EMAIL_SERVICE,
