@@ -47,7 +47,8 @@ function parseSkiResortData(data) {
 
 function emailConfig({subject, recipients, body}) {
     const smtpConfig = {
-        host: process.env.EMAIL_SERVICE,
+        service: process.env.EMAIL_SERVICE,
+        host: process.env.EMAIL_HOST,
         port: process.env.SMPT_PORT,
         secure: false,
         auth: {
