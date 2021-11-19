@@ -49,6 +49,7 @@ function emailConfig({subject, recipients, body}) {
     const smtpConfig = {
         host: process.env.EMAIL_SERVICE,
         port: process.env.SMPT_PORT,
+        secure: false,
         auth: {
             user: process.env.EMAIL,
             pass: process.env.PASSWORD
